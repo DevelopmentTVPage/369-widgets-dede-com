@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "dede"
+baseURL = "https:\/\/widgets.dede.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
+cookiedomain = "dede.com"
